@@ -4,7 +4,7 @@
   "description": "Add an interactive credit card animation to your payment form.",
   "main": "lib/card-react-form-container.js",
   "dependencies": {
-    "payment": "0.0.9",
+    "payment": "git://github.com/pospi/payment.git#master",
     "classnames": "^2.1.2"
   },
   "devDependencies": {
